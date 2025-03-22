@@ -1,6 +1,6 @@
 # Codes for Kuramoto oscillators simulation
 This folder contain codes for simulating Kuramoto model with a generalized coupling function, studied in [1] and [2].
-Additionally, the simulation contains additional stochastic dynamics in the constant term (_c<sub>0</sub>_) in the coupling function.
+This model is extended with additional stochastic dynamics in the constant term (_c<sub>0</sub>_) in the coupling function to simulate the transition among brain states.
 
 To run simulation, specify the parameters in the main script `run_and_save_simulation.m`. 
 
