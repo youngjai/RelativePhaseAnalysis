@@ -9,7 +9,7 @@ We use three different datasets:
 To preprocess the data, we use the EEGLAB toolbox in MATLAB [7].
 
 ## References
-[1] H. Lee, _et al._, "Relationship of critical dynamics, functional connectivity, and states of consciousness in large-scale human brain network.", _Neuroimage_ **188**, 228-238 (2019) https://doi.org/10.1016/j.neuroimage.2018.12.001
+[1] H. Lee, _et al._, "Relationship of critical dynamics, functional connectivity, and states of consciousness in large-scale human brain network.", _Neuroimage_ **188**, 228-238 (2019) https://doi.org/10.1016/j.neuroimage.2018.12.011
 
 [2] M. Kim, _et al._, "Criticality creates a functional platform for network transitions between internal and external processing modes in the human brain.", _Front. Syst. Neurosci._ **15**, 657809 (2021) https://doi.org/10.3389/fnsys.2021.657809
 
