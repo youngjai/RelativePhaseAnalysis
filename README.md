@@ -7,6 +7,7 @@ We use three different datasets:
 - Attention Deficit Hyperactivity Disorder (ADHD) and Control groups' 128-channel EEG recordings in the Healthy Brain Network (HBN) project [5,6]
 
 To preprocess the data, we use the EEGLAB toolbox in MATLAB [7].
+
 Codes for simulation Kuramoto oscillators are contained in the folder 'Simulation.'
 
 ## References
