@@ -459,7 +459,7 @@ end
 
 k = K+1;
 ah = axes('position',get(gca,'position'),'visible','off');
-legend(ah, pl(k), legend_label{k}, 'FontSize',12, ...
+legend(ah, pl(k), legend_label{k}, 'FontSize',14, ...
     'Location',[0.107+(k-1)*gap_margin 0.905 0.07 0.07], 'Units','normalized');
 
 ax_in = axes(fig,'Position',[0.103+(k-1)*gap_margin 0.68 0.08 0.22], 'Units','normalized');
@@ -698,7 +698,7 @@ end
 
 k = K+1;
 ah = axes('position',get(gca,'position'),'visible','off');
-legend(ah, pl(k), legend_label{k}, 'FontSize',12, ...
+legend(ah, pl(k), legend_label{k}, 'FontSize',14, ...
     'Location',[0.107+(k-1)*gap_margin 0.905 0.07 0.07], 'Units','normalized');
 
 ax_in = axes(fig,'Position',[0.103+(k-1)*gap_margin 0.68 0.08 0.22], 'Units','normalized');
@@ -937,7 +937,7 @@ end
 
 k = K+1;
 ah = axes('position',get(gca,'position'),'visible','off');
-legend(ah, pl(k), legend_label{k}, 'FontSize',12, ...
+legend(ah, pl(k), legend_label{k}, 'FontSize',14, ...
     'Location',[0.107+(k-1)*gap_margin 0.905 0.07 0.07], 'Units','normalized');
 
 ax_in = axes(fig,'Position',[0.103+(k-1)*gap_margin 0.68 0.08 0.22], 'Units','normalized');
@@ -1176,7 +1176,7 @@ end
 
 k = K+1;
 ah = axes('position',get(gca,'position'),'visible','off');
-legend(ah, pl(k), legend_label{k}, 'FontSize',12, ...
+legend(ah, pl(k), legend_label{k}, 'FontSize',14, ...
     'Location',[0.107+(k-1)*gap_margin 0.905 0.07 0.07], 'Units','normalized');
 
 ax_in = axes(fig,'Position',[0.103+(k-1)*gap_margin 0.68 0.08 0.22], 'Units','normalized');
