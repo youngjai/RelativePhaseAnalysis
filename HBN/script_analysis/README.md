@@ -19,8 +19,7 @@
 4. **`HBN_calculate_beta_by_subject`**  
    - Computes **beta values** as described in the paper  
    - Calculates additional subject-wise metrics such as:
-     - Mode ratio
-     - Dwell time
+     Mode ratio, Dwell time, Transition Values, etc
 
 5. **`HBN_tbr_cal`**  
    - Calculates the **Theta/Beta Ratio (TBR)** from the EEG data
