@@ -1,1 +1,13 @@
-**Healthy Brain Network (HBN) ADHD inattentive subtype EEG data**
+# Healthy Brain Network (HBN) ADHD EEG Data
+
+We used eyes closed and eyes open resting state data from the Healthy Brain Network (HBN) dataset released by the Child Mind Institute [Alexander et al., 2017]. The HBN dataset is a large-scale data collection targeting adolescents (aged 5-21) living in the New York City area. It consists of extensive multimodal datasets covering a wide spectrum of commonly encountered clinical psychopathologies including attention deficit hyperactivity disorder (ADHD). To examine the real-time directionality of phase relationship across whole brain regions, we used high-density electroencephalography (EEG) data recorded at a sampling rate of 500 Hz using a 128-channel geodesic hydrocel system by Electrical Geodesics Inc. (EGI). 
+
+The HBN dataset is publicly available. EEG and phenotype data can be downloaded by following the instructions provided on the official project website:
+
+🔗 https://fcon_1000.projects.nitrc.org/indi/cmi_healthy_brain_network/
+
+To establish a more robust sample with ADHD-Inattentive type, we selected individuals who had been diagnosed with ADHD inattentive type without comorbidity. The control group consists of individuals who had not received any diagnosis. The EEG signal in the alpha spectrum peak shows a qualitative difference between age under and above 10 [Cragg et al., 2011]. Therefore, we chose individuals aged 11 and older. In conclusion, resting state data from a total of 53 ADHD participants (41 male, mean age 14.11, standard error (s.e.) 0.27) and 88 control individuals (44 male, mean age 14.07, s.e. 0.28) were used for the analysis. Participants are encouraged to discontinue stimulant medication due to its potential effects on cognitive and behavioral testing and brain function mapping [Alexander et al., 2017]. However, those who choose not to or are required by their physicians to continue medication can still participate, with their medication intake recorded on the day of the study. Three participants in the selected ADHD-inattentive group were on medication during data collection, and they were not excluded from the analysis.
+
+![image](https://github.com/user-attachments/assets/8230cb35-9de2-4dd3-a631-fd4a5b0fa73c)
+
+The resting-state EEG data used in this study were recorded over a total duration of 5 minutes, consisting of five repeated cycles of 20 seconds with eyes open followed by 40 seconds with eyes closed, as depicted in the figure above. To minimize the influence of transitions between different states, the central portions of each segment were used for analysis: 33.6 seconds from the eyes-closed (EC) periods (excluding the first 5.4 seconds and the last 1 second), and 16.8 seconds from the eyes-open (EO) periods (excluding the first 2.2 seconds and the last 1 second).
